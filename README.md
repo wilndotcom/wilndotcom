@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @wilndotcom
 - 👀 I’m interested in ...softwares especially mikrotik  api,accounting for small business,websites
 - 🌱 I’m currently learning ...to develop on my own
-- 💞️ I’m looking to collaborate on ...developers who are highly skilled like ibnux
+- 💞️ I’m looking to collaborate on ...developers who are highly skilled like View ibnux's full-sized avatar
+💭
+iBNu Maksum
+ibnux
 - 📫 How to reach me ...kennethndugi@gmail.com
 - 😄 Pronouns: ...syntax
 - ⚡ Fun fact: ...
